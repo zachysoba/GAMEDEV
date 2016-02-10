@@ -49,7 +49,6 @@ public:
     int winHeight;
     int score;
     bool gameOverFlag;
-    float gameOverDelay;
     float speed;
     SnakeNode* food;
     cocos2d::Vector<SnakeNode*> snake;
